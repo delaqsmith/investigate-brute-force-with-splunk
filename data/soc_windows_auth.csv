@@ -1,0 +1,16 @@
+timestamp,event_id,user,source_ip,status,logon_type,destination,context
+2026-08-30T08:55:00Z,4625,priya,198.51.100.25,failure,3,FILE-SRV-01,user_typo
+2026-08-30T08:55:15Z,4624,priya,198.51.100.25,success,3,FILE-SRV-01,normal_vpn
+2026-08-30T08:57:00Z,4625,backup_svc,192.0.2.10,failure,3,FILE-SRV-01,approved_backup_service
+2026-08-30T08:57:10Z,4625,backup_svc,192.0.2.10,failure,3,FILE-SRV-01,approved_backup_service
+2026-08-30T08:57:20Z,4625,backup_svc,192.0.2.10,failure,3,FILE-SRV-01,approved_backup_service
+2026-08-30T08:57:30Z,4625,backup_svc,192.0.2.10,failure,3,FILE-SRV-01,approved_backup_service
+2026-08-30T08:57:40Z,4625,backup_svc,192.0.2.10,failure,3,FILE-SRV-01,approved_backup_service
+2026-08-30T09:00:00Z,4625,alex,203.0.113.77,failure,3,FILE-SRV-01,external_unknown
+2026-08-30T09:00:30Z,4625,alex,203.0.113.77,failure,3,FILE-SRV-01,external_unknown
+2026-08-30T09:01:00Z,4625,alex,203.0.113.77,failure,3,FILE-SRV-01,external_unknown
+2026-08-30T09:01:30Z,4625,alex,203.0.113.77,failure,3,FILE-SRV-01,external_unknown
+2026-08-30T09:02:00Z,4625,alex,203.0.113.77,failure,3,FILE-SRV-01,external_unknown
+2026-08-30T09:02:30Z,4625,alex,203.0.113.77,failure,3,FILE-SRV-01,external_unknown
+2026-08-30T09:03:00Z,4624,alex,203.0.113.77,success,3,FILE-SRV-01,external_unknown
+2026-08-30T09:05:00Z,4624,morgan,198.51.100.44,success,3,FILE-SRV-01,normal_vpn
